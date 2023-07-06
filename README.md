@@ -7,4 +7,4 @@ Enclosed here are the necessary files to reproduce results in our main paper, th
 
 /input - configuration files, can be added to the input directory within a given MITgcm verification 
 
-/scripts - scripts for compiling, running, and post-processing.
+/scripts - scripts for compiling, running, and post-processing. These files are all setup specific.
