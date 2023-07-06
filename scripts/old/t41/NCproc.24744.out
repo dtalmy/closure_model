@@ -1,0 +1,9 @@
+Anaconda3 version 2021.05
+$RUN_DIR   : /lustre/isaac/scratch/ecarr/runs/run_t41mort_24661
+Result processing
+Res Dir : /lustre/isaac/scratch/ecarr/runs/run_t41mort_24661/NC_trace
+Processing Grid
+Writing non-record variables
+Tiled dimensions: X Y Xp1 Yp1
+Processing ptracers files
+process finished

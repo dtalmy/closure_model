@@ -1,0 +1,9 @@
+
+ &GUD_TRAITS 
+
+ PALAT= 9*0.0 ,
+ 
+ PALAT(1,3) = 1.0,
+ PALAT(2,3) = 1.0,
+ 
+&
